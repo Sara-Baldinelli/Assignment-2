@@ -1,4 +1,3 @@
-# Assignment-2
-Rosalind challenges
-http://rosalind.info/users/baldinelli_19281
-SARA BALDINELLI, 1928738
+# PCSII Assignment-2
+### https://rosalind.info/users/baldinelli_19281 
+#### SARA BALDINELLI, 1928738
